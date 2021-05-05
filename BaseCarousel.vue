@@ -181,8 +181,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-@import '~assets/recruit/scss/settings.scss';
-
 .carousel {
   // .carousel__items
 
